@@ -1,1 +1,1 @@
-print("I create Help MD file to inform you")
+print("I create HelpMD file to inform you and README file")
