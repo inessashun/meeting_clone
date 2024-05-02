@@ -14,7 +14,7 @@ Tips for Finding a Meeting Time That Works for Everyone
    - Consider all time zones.
    - Schedule the meeting in advance.
   
--- Block off **'no meeting'** time on your calendar.
+Block off **'no meeting'** time on your calendar.
 
 Don't schedule a meeting when <br/> 
 an ***MEETENG REMINDER*** will do.
